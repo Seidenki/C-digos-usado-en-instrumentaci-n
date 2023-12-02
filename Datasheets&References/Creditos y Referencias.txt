@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=2kNt1OsJT-Q
+https://www.youtube.com/watch?v=LtZ_b2WVMrU
+https://www.youtube.com/watch?v=oz2PZKZ9Zao&t=216s
+https://www.youtube.com/watch?v=nQY--Nbrr-4
+https://www.youtube.com/watch?v=bRCVtVuYjRI
+https://electropeak.com/learn/interfacing-gp2y1010au0f-optical-dust-sensor-module-with-arduino/
+https://www.instructables.com/How-to-Interface-With-Optical-Dust-Sensor/
+https://circuitdigest.com/microcontroller-projects/interfacing-sharp-gp2y1014au0f-sensor-with-arduino-to-build-air-quality-analyzer
